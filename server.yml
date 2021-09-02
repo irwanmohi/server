@@ -1,0 +1,2 @@
+- name: Remote SSH Commands
+  uses: fifsky/ssh-action@v0.0.6
